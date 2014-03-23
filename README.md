@@ -1,24 +1,19 @@
-MIUI v5 - MIUIAndroid XML Strings
+MIUIAndroid V5 German Translations.
+=================
+This is the repository for the German Translation of MIUIAndroid.
 
+Credits
+=================
+* **iBotPeaches**  - Builder of MIUI-ROM.
 
-License of this work is covered below, for more information contact github@miuiandroid.com
+* **ingbrzy** - Builder of MultiLang Packs for MIUI-ROM, Build-Bug Fixes.
+ 
+* **Acid** - Builder of MultiLang Packs for MIUI-ROM, Build-Bug Fixes.
 
----------------------------------------------------------------------------------------------
+* **Bitti09** - Leader of  the German translation ( currently inactive )
 
-MIUI Android English Translations (Started August 2010 by Mark Hedley) by Mark Hedley / MIUI China is 
-licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+* **BobQuentok** - 2nd Leader of  the German translation
 
-Based on a work at miui.com http://miui.com
-
-Permissions beyond the scope of this license may be available at http://miuiandroid.com/community/help/terms
-
-Last modified 12 / 03 / 2012 (Dec 2012)
-
-
----------------------------------------------------------------------------------------------
-
-For more information regarding the structure of this REPO. Please see this Doc: 
-
-http://miui.connortumbleson.com/dev_guide
-
-It can be used in other languages to be included in multi language ROM
+External Links
+=================
+* **MIUIAndroid/xiaomi.eu** (http://xiaomi.eu)
